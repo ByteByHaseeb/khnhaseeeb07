@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on innovative projects that focus on web interactivity, UI/UX design, and optimizing performance.
 
-📫 How to reach me: Feel free to reach out via GitHub or email me at [khnhaseeb619@gmial.com.]
+📫 How to reach me: Feel free to reach out via GitHub or email me at khnhaseeb619@gmial.com.
 
 🛒 I’m also a Shopify Theme Developer, specializing in building responsive and customized themes that deliver seamless shopping experiences.
 

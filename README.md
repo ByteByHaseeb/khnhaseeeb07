@@ -1,4 +1,4 @@
-👋 Hi, I’m @Andul Haseeb, a passionate Front-End Developer.
+👋 Hi, I’m @Abdul Haseeb, a passionate Front-End Developer.
 👀 I’m interested in creating dynamic, user-centric web applications using modern JavaScript frameworks and libraries like React.js, GSAP, and Lenis Scroll.
 🌱 I’m currently learning advanced React concepts, JavaScript ES6+ features, and exploring animation and web performance optimization techniques.
 💞️ I’m looking to collaborate on innovative projects that focus on web interactivity, UI/UX design, and optimizing performance.
